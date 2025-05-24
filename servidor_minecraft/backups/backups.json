@@ -1,0 +1,17 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1748100600061,
+      "backupLocation": "/workspaces/mcserverinyo/servidor_minecraft/backups/2025-5-24_15-30-0.zip",
+      "size": 5969477,
+      "ratio": 0.76907957,
+      "sha1": "fc67a6aa3cf1d53754697dfed178affa831f59c7",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

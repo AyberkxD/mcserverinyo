@@ -1670,3 +1670,64 @@ Caused by: java.lang.ClassNotFoundException: com.simibubi.create.content.contrap
 [24May2025 15:24:34.638] [Server thread/INFO] [Modonomicon/]: Books built.
 [24May2025 15:24:34.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cucekek joined the game
 [24May2025 15:24:35.248] [Server thread/INFO] [Jade/]: Syncing config to cucekek (4bb14ac4-7b5e-339b-ad44-6f959cd759d8)
+[24May2025 15:30:00.010] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[24May2025 15:30:00.011] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Found world folder at /workspaces/mcserverinyo/servidor_minecraft/./world/.
+[24May2025 15:30:00.060] [ftbbackups2_Worker-1/ERROR] [net.creeperhost.ftbbackups.FTBBackups/]: Current world size: 7.2MB Current Available space: 18.3GB
+[24May2025 15:30:00.061] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to true
+[24May2025 15:30:00.061] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to true
+[24May2025 15:30:00.061] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars_orbit save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio_orbit save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus_orbit save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:earth_orbit save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury_orbit save state to true
+[24May2025 15:30:00.062] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon_orbit save state to true
+[24May2025 15:30:00.063] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury save state to true
+[24May2025 15:30:00.063] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to true
+[24May2025 15:30:00.063] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to true
+[24May2025 15:30:00.065] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/mcserverinyo/servidor_minecraft/backups/backups.json
+[24May2025 15:30:00.066] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Waiting for world save to complete.
+[24May2025 15:30:00.317] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Detected MC Version 1.20.1, Data version 3465
+[24May2025 15:30:00.318] [FTB Backups backup thread 0/INFO] [net.creeperhost.levelio.loader.SaveInfo/]: Save Name: world
+[24May2025 15:30:00.334] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/mcserverinyo/servidor_minecraft/./world/./DIM-1
+[24May2025 15:30:00.335] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ae2:spatial_storage
+[24May2025 15:30:00.335] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_projectile_test_level
+[24May2025 15:30:00.335] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder minecraft:server_faucet_test_level
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mars_orbit
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:venus_orbit
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:glacio
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mercury
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:moon_orbit
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mars
+[24May2025 15:30:00.336] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:earth_orbit
+[24May2025 15:30:00.337] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:venus
+[24May2025 15:30:00.337] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:moon
+[24May2025 15:30:00.337] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:mercury_orbit
+[24May2025 15:30:00.337] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.loader.LevelLoader/]: Found possible mod dimension with no region folder ad_astra:glacio_orbit
+[24May2025 15:30:00.337] [FTB Backups backup thread 0/WARN] [net.creeperhost.levelio.data.Level/]: Did not find a region folder for level: /workspaces/mcserverinyo/servidor_minecraft/./world/./DIM1
+[24May2025 15:30:01.671] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup preview created, Scan took 167ms, Capture took 1278ms
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:overworld save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_nether save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mars_orbit save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon save state to false
+[24May2025 15:30:02.126] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio_orbit save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:venus_orbit save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:earth_orbit save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:glacio save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury_orbit save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:moon_orbit save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ad_astra:mercury save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world minecraft:the_end save state to false
+[24May2025 15:30:02.127] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Setting world ae2:spatial_storage save state to false
+[24May2025 15:30:02.147] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Backup size 5.7MB World Size 7.4MB
+[24May2025 15:30:02.147] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Writing to file /workspaces/mcserverinyo/servidor_minecraft/backups/backups.json
+[24May2025 15:30:02.148] [FTB Backups backup thread 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: New backup created at /workspaces/mcserverinyo/servidor_minecraft/backups/2025-5-24_15-30-0.zip size: 5.7MB Took: 0m, 2s, 64ms Sha1: fc67a6aa3cf1d53754697dfed178affa831f59c7
+[24May2025 15:30:29.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cucekek has made the advancement [Crawling in my Bark]
+[24May2025 15:30:29.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cucekek moved wrongly!
+[24May2025 15:30:45.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cucekek lost connection: Disconnected
+[24May2025 15:30:45.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cucekek left the game
