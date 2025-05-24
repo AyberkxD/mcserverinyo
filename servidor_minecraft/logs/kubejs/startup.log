@@ -1,0 +1,98 @@
+[15:22:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:22:50] [INIT] Loaded plugins:
+[15:22:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:22:50] [INIT] - com.almostreliable.morejs.Plugin
+[15:22:50] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[15:22:50] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[15:22:50] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[15:22:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[15:22:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[15:22:50] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[15:22:50] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[15:22:50] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[15:22:50] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[15:22:50] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[15:22:50] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[15:22:50] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[15:22:50] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[15:22:52] [INFO] Loaded script startup_scripts:_initial.js in 0.128 s
+[15:22:52] [INFO] schema.js#1: Loaded Java class 'dev.latvian.mods.kubejs.recipe.schema.RecipeSchema'
+[15:22:52] [INFO] Loaded script startup_scripts:schema.js in 0.028 s
+[15:22:52] [INFO] Loaded script startup_scripts:creative_tabs.js in 0.003 s
+[15:22:52] [INFO] Loaded script startup_scripts:trading.js in 0.103 s
+[15:22:52] [INFO] Loaded script startup_scripts:mods/trials.js in 0.002 s
+[15:22:52] [INFO] Loaded script startup_scripts:mods/moreminecarts.js in 0.001 s
+[15:22:52] [INFO] Loaded script startup_scripts:startup_compatability/createaddition.js in 0.0 s
+[15:22:52] [INFO] Loaded script startup_scripts:startup_compatability/createcasing.js in 0.001 s
+[15:22:52] [INFO] generate.js#3: Loaded Java class 'net.minecraft.world.level.block.state.properties.BlockStateProperties'
+[15:22:52] [INFO] Loaded script startup_scripts:generate.js in 0.051 s
+[15:22:52] [INFO] Loaded script startup_scripts:potions.js in 0.001 s
+[15:22:52] [INFO] Loaded 10/10 KubeJS startup scripts in 1.453 s with 0 errors and 0 warnings
+[15:22:52] [WARN] generate.js#186: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#186: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#186: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#186: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#186: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:22:52] [WARN] generate.js#204: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[15:23:03] [INFO] potions.js#4: Removed potion brewing recipe: minecraft:awkward + {"item":"minecraft:phantom_membrane"} -> minecraft:slow_falling
